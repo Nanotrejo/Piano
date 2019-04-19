@@ -232,6 +232,7 @@ Features
 text-shadow:rgb(87, 149, 204) 1px 1px,rgb(87, 149, 204) 2px 2px,rgb(87, 149, 204) 3px 3px,rgb(87, 149, 204) 4px 4px,rgb(87, 149, 204) 5px 5px,rgb(87, 149, 204) 6px 6px,rgb(87, 149, 204) 7px 7px,rgb(87, 149, 204) 8px 8px,rgb(87, 149, 204) 9px 9px,rgb(87, 149, 204) 10px 10px,rgb(87, 149, 204) 11px 11px,
 						rgb(87, 149, 204) 12px 12px,rgb(87, 150, 205) 13px 13px,rgb(87, 151, 206) 14px 14px,rgb(87, 152, 207) 15px 15px,rgb(87, 153, 208) 16px 16px,rgb(87, 154, 209) 17px 17px,rgb(88, 155, 210) 18px 18px,rgb(88, 156, 211) 19px 19px,rgb(89, 157, 212) 20px 20px, rgb(90, 158, 213) 21px 21px,rgb(90, 159, 214) 22px 22px,rgb(91, 160, 215) 23px 23px, rgb(92, 161, 216) 24px 24px, rgb(93, 162, 217) 25px 25px,rgb(94, 163, 218) 26px 26px,rgb(95, 164, 219) 27px 27px,rgb(96, 165, 220) 28px 28px,rgb(96, 166, 221) 29px 29px;}
 .icon { height: 175px; width: 175px; line-height: 175px; max-width: 100%; background: rgb(69, 115, 155);  border-radius: 50%; -o-border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; display: block; color: #fff; font-size: 55px; text-align: center; vertical-align: middle; position: relative; margin: 0 auto 50px; }/*#3dc9b3;*/
+.social-buttons img{margin:10px;}
 /* ==========================================================================
 iPhone Section
 ========================================================================== */
